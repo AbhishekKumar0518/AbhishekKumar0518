@@ -2,7 +2,6 @@
 - 👀 I’m interested in DATA ANALYTICS 
 - 🌱 I’m currently learning MASTER OF OPERATIONAL RESEARCH 
 - 💞️ I’m looking to collaborate on DATA ANALYTICAL PROJECTS
-- 📫 How to reach me 
 
 <!---
 AbhishekKumar0518/AbhishekKumar0518 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
